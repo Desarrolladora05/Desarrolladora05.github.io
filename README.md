@@ -1,1 +1,11 @@
 # Desarrolladora05.github.io
+
+ cd nombre de usuario Desarrolladora05.github.io
+
+ echo "Hola mundo" > index.html
+
+ git add --all
+
+ git commit -m "Confirmación inicial"
+
+ git push -u origin main
